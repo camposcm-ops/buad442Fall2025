@@ -1,14 +1,14 @@
-# 👨‍🎓 Student Portfolio - Adam 🚴
+# 👨‍🎓 Student Portfolio - Adam F. 🚴
 
 ---
 
-## 📋 Student Information
+## 📋 Student Information For Reading
 
 | **Field** | **Details** |
 |-----------|-------------|
 | **Nickname/Pseudonym** | Adam |
 | **Interesting Fact** | Inventor of "The Invisible Pool Toy" - hold a patent for it. |
-| **Interesting Fact2** | I like biking in cities and on gravel rail trails. |
+| **Interesting Fact2** | I like biking in cities and on gravel rail trails.🚴 |
 
 ---
 
